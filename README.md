@@ -9,3 +9,8 @@ A finite state machine that flashes all four LEDs then counts in binary, driven 
 
 **Tools:** Vivado, SystemVerilog  
 **Board:** Digilent Arty S7-50
+
+### UART_TX 
+UART_TX that transmits an 'A' character upon button press on the Arty S7-50
+**Tools:** Vivado, SystemVerilog  
+**Board:** Digilent Arty S7-50
