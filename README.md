@@ -19,3 +19,8 @@ UART_TX that transmits a string upon button press on the Arty S7-50
 UART Receiver and Echo functionality
 **Tools:** Vivado, SystemVerilog  
 **Board:** Digilent Arty S7-50
+
+### UART_FIFO
+UART Receiver and Echo functionality with added FIFO buffer
+**Tools:** Vivado, SystemVerilog  
+**Board:** Digilent Arty S7-50
